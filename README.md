@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sathwikcm23
-- 👀 I’m interested Machine Learning and data Science
+- 👀 I’m interested in Machine Learning and data Science
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : cmsathwik44@gmail.com
